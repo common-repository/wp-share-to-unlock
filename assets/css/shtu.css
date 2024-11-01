@@ -1,0 +1,39 @@
+.shtu.message
+{
+    color: #333;
+    border-color:#E6DB55;
+
+    background-color: #ffffe0;
+    padding: 0 .6em;
+    margin: 5px 0 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    font-family: sans-serif;
+}
+.shtu.share_block
+{
+	border:1px solid;
+}
+.shtu.share_block td
+{
+	border:0;
+    vertical-align: top;
+}
+
+/*
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+    display: none !important;
+}
+
+.fb_edge_comment_widget {
+  display: none !important;
+}
+
+.fbpf .pluginCommentFlyoutFullButton{
+	display: none !important;
+}
+*/
+
+
+
